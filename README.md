@@ -1,3 +1,6 @@
+![alt text](https://github.com/farhanmaulana2727/portofolio/blob/main/hero-bg.png?raw=true)
+
+
 ![Watch Now](./img/Design.jpg)
 # One page Portfolio Website (HTML CSS Project)
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube.com/channel/UChawadR2TyIsmdKx7hMd65Q?style=social) : youtube.com/channel/UChawadR2TyIsmdKx7hMd65Q**
